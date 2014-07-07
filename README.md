@@ -35,7 +35,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
 * [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
-
+* [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb
 ## Web Frameworks
 
 *Web development frameworks.*
@@ -44,6 +44,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 * [Flatiron](http://flatironjs.org/) - An adaptable framework for building modern web applications.
 * [Koa](http://koajs.com/) - A framework which aims to be a smaller, more expressive, and more robust foundation for web applications.
 * [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
+* [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes
 
 ## RESTful API
 
@@ -56,10 +57,13 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 *Libraries for implementing authentications schemes.*
 
+* [PassportJS](http://passportjs.org/) Simple authentification framework
+
 ## Template Engine
 
 *Libraries and tools for templating and lexing.*
 
+* [ECT](http://ectjs.com/) - "Fastest JavaScript template engine with embedded CoffeeScript syntax" as they say (benchmark proof)
 * [Jade](http://jade-lang.com/) - Handful node template engine.
 * [Swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable JavaScript Template Engine.
 
