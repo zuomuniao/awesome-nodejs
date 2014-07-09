@@ -36,6 +36,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
 * [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
 * [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb
+
 ## Web Frameworks
 
 *Web development frameworks.*
