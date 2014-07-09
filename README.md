@@ -3,14 +3,24 @@
 A curated list of astonishing Node.js frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Node.js](#awesome-nodejs)
+    - [Environment Management](#environment-management)
     - [Documentation](#documentation)
     - [Package Management](#package-management)
     - [Database Drivers](#database-drivers)
+    - [Debugging Tools](#debugging-tools)
+    - [Logging](#logging)
     - [ORM](#orm)
     - [Web Frameworks](#web-frameworks)
     - [RESTful API](#restful-api)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
+
+## Environment Management
+
+*Libraries for Node version and environment management.*
+
+* [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv.
+* [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.
 
 ## Documentation
 
@@ -31,6 +41,20 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 * [Node-mysql](https://github.com/felixge/node-mysql/) - A pure node.js JavaScript Client implementing the MySql protocol.
 * [Node-mongodb-native](https://github.com/mongodb/node-mongodb-native/) - Mongo DB Native NodeJS Driver.
+
+## Debugging Tools
+
+*Tools for debugging Node applications*
+
+* [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools.
+* [longjohn](https://github.com/mattinsler/longjohn) - Longer stack traces for Node.
+
+## Logging
+
+*Tools for generating and working with log files.*
+
+* [caterpillar](https://github.com/bevry/caterpillar) - A logging system that can log and pipe the output off to different locations.
+* [tracer](https://github.com/baryon/tracer) - A powerful and customizable logging library for node.js.
 
 ## ORM
 
