@@ -27,7 +27,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 ## Database Drivers
 
-*Libraties for connecting and operating databases*
+*Libraries for connecting and operating databases*
 
 ## ORM
 
