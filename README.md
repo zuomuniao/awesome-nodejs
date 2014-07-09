@@ -29,6 +29,9 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 *Libraries for connecting and operating databases*
 
+* [Node-mysql](https://github.com/felixge/node-mysql/) - A pure node.js JavaScript Client implementing the MySql protocol.
+* [Node-mongodb-native](https://github.com/mongodb/node-mongodb-native/) - Mongo DB Native NodeJS Driver.
+
 ## ORM
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
