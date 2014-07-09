@@ -46,6 +46,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 * [Koa](http://koajs.com/) - A framework which aims to be a smaller, more expressive, and more robust foundation for web applications.
 * [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
 * [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes
+* [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services 
 
 ## RESTful API
 
