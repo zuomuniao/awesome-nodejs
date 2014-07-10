@@ -19,6 +19,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Files and MIME Type Manipulation](#files-and-MIME-type-manipulation)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
+    - [Tools for building CLIs](#tools-for-building-clis)
 
 ## Environment Management
 
@@ -116,6 +117,17 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [ECT](http://ectjs.com/) - "Fastest JavaScript template engine with embedded CoffeeScript syntax" as they say (benchmark proof).
 * [Jade](http://jade-lang.com/) - Handful node template engine.
 * [Swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable JavaScript Template Engine.
+
+## Tools for building CLIs
+
+*Libraries and tools which support you by building Command-Line Interfaces.*
+
+* [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces. *Ask questions, parsing, validating answers, managing hierarchical prompts and providing error feedback.*
+* [commander.js](https://github.com/visionmedia/commander.js) - The complete solution for node.js command-line interfaces, inspired by Ruby's commander.
+* [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables for the CLI with Node.JS
+* [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
+* [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
+
 
 # Contributing
 
