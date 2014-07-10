@@ -6,12 +6,15 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
     - [Environment Management](#environment-management)
     - [Documentation](#documentation)
     - [Package Management](#package-management)
+    - [Communication](#communication)
     - [Database Drivers](#database-drivers)
     - [Debugging Tools](#debugging-tools)
     - [Logging](#logging)
     - [ORM](#orm)
     - [Web Frameworks](#web-frameworks)
+    - [Content Management System](#content-management-system)
     - [RESTful API](#restful-api)
+    - [Files and MIME Type Manipulation](#files-and-MIME-type-manipulation)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
 
@@ -35,6 +38,10 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 * [Npm](https://www.npmjs.org/) - Default package manager. Installs, publishes and manages node programs.
 
+## Communication
+
+* [Socket.IO](http://socket.io/) - Websocket framework for Node and Javascript.
+
 ## Database Drivers
 
 *Libraries for connecting and operating databases*
@@ -55,6 +62,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 * [caterpillar](https://github.com/bevry/caterpillar) - A logging system that can log and pipe the output off to different locations.
 * [tracer](https://github.com/baryon/tracer) - A powerful and customizable logging library for node.js.
+* [Log.io](http://logio.org/) - Real time logging facility on the browser.
 
 ## ORM
 
@@ -62,7 +70,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
 * [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
-* [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb
+* [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb.
 
 ## Web Frameworks
 
@@ -72,8 +80,12 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 * [Flatiron](http://flatironjs.org/) - An adaptable framework for building modern web applications.
 * [Koa](http://koajs.com/) - A framework which aims to be a smaller, more expressive, and more robust foundation for web applications.
 * [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
-* [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes
-* [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services 
+* [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes.
+* [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
+
+## Content Management System
+
+* [Calipso](http://calip.so/) - Calipso is a simple CMS, built along similar themes to Drupal and Wordpress.
 
 ## RESTful API
 
@@ -83,17 +95,22 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 * [Node-restify](http://mcavage.me/node-restify/) - A node.js module built specifically to build correct REST web services.
 * [Heimdall](https://github.com/binarymax/heimdall) - REST API Guardian for Express.
 
+## Files and MIME Type Manipulation
+
+* [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library for Node and browser.
+
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
 
-* [PassportJS](http://passportjs.org/) Simple authentification framework
+* [PassportJS](http://passportjs.org/) - Simple authentication middleware framework.
+* [ldapjs](http://ldapjs.org/) - Pure JavaScript, from-scratch framework for implementing LDAP clients and servers.
 
 ## Template Engine
 
 *Libraries and tools for templating and lexing.*
 
-* [ECT](http://ectjs.com/) - "Fastest JavaScript template engine with embedded CoffeeScript syntax" as they say (benchmark proof)
+* [ECT](http://ectjs.com/) - "Fastest JavaScript template engine with embedded CoffeeScript syntax" as they say (benchmark proof).
 * [Jade](http://jade-lang.com/) - Handful node template engine.
 * [Swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable JavaScript Template Engine.
 
