@@ -6,8 +6,10 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 - [Awesome Node.js](#awesome-nodejs)
     - [Environment Management](#environment-management)
+    - [Integrated Development Enviroments](#integrated-development-enviroments)
     - [Documentation](#documentation)
     - [Package Management](#package-management)
+    - [Build Tools](#build-tools)
     - [Communication](#communication)
     - [Database Drivers](#database-drivers)
     - [Debugging Tools](#debugging-tools)
@@ -27,6 +29,14 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv.
 * [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.
 
+## Integrated Development Enviroments
+
+*IDEs and Editors for development*
+
+* [Enide](http://www.nodeclipse.org/enide/) - Node Eclipse IDE with Nodeclipse plugin.
+* [InteliJIDEA](http://www.jetbrains.com/idea/features/nodejs.html) - Fast Node plugin for InteliJ.
+* [Cloud9](https://c9.io/site/code-smarter-code-together/) - Web editor with collaboration tools.
+
 ## Documentation
 
 *Libraries for generating project documentation.*
@@ -39,6 +49,14 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Libraries for package and dependency management.*
 
 * [Npm](https://www.npmjs.org/) - Default package manager. Installs, publishes and manages node programs.
+
+## Build Tools
+
+*Libraries for building and task running*
+
+* [Gulp.js](http://gulpjs.com/) - A streaming build system which use of streams and code-over-configuration.
+* [Grunt.js](http://gruntjs.com/) - A task runner to ease epetitive tasks like unit testing, compilation and so on.
+* [Nodemon](http://nodemon.io/) - A dev utility that monitor any changes in source and automatically restart server.
 
 ## Communication
 
