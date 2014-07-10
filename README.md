@@ -16,7 +16,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Web Frameworks](#web-frameworks)
     - [Content Management System](#content-management-system)
     - [RESTful API](#restful-api)
-    - [Files and MIME Type Manipulation](#files-and-MIME-type-manipulation)
+    - [Files and MIME Type Manipulation](#files-and-mime-type-manipulation)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
