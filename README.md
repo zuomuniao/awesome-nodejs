@@ -22,7 +22,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
-    - [Build Tools / Task Runner](#build-tools-task-runner)
 
 ## Environment Management
 
@@ -147,12 +146,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
 
-## Build Tools / Task Runner
-
-*Tools for your continuous integration process.*
-
-* [gulp.js](http://gulpjs.com/) - The streaming build system. *gulp's use of streams and code-over-configuration makes for a simpler and more intuitive build.*
-* [gruntjs](http://gruntjs.com/) - The JavaScript Task Runner 
 
 # Contributing
 
