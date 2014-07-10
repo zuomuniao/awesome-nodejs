@@ -41,6 +41,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 ## Communication
 
 * [Socket.IO](http://socket.io/) - Websocket framework for Node and Javascript.
+* [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 
 ## Database Drivers
 
