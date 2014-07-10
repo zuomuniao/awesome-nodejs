@@ -1,6 +1,6 @@
 # Awesome Node.js
 
-A curated list of astonishing Node.js frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of astonishing Node.js frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Node.js](#awesome-nodejs)
     - [Environment Management](#environment-management)
