@@ -44,6 +44,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
 * [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
+* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc. 
 
 ## Package Management
 
