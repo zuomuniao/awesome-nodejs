@@ -22,6 +22,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## Environment Management
 
@@ -152,6 +153,8 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
 
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 
