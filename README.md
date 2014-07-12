@@ -22,7 +22,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
-    - [Async controll flow](#async-control-flow)
+    - [Async Controll Flow](#async-control-flow)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Environment Management
@@ -155,7 +155,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
 * [minimist](https://github.com/substack/minimist) - Simple module for command line arguments parsing.
 
-## Async control flow
+## Async Control Flow
 
 *Libraries, that help you manage asyncronous control flow and avoid callback hell.*
 
