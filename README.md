@@ -22,6 +22,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
+    - [Async controll flow](#async-control-flow)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Environment Management
@@ -50,7 +51,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
 * [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
-* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc. 
+* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc.
 
 ## Package Management
 
@@ -152,6 +153,22 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables for the CLI with Node.JS
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
+
+## Async control flow
+
+*Libraries, that help you manage asyncronous control flow and avoid callback hell.*
+
+* Callback-based:
+    * [Async](https://github.com/caolan/asyn) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+* Promise-based ([Promises/A+](http://promises-aplus.github.io/promises-spec/)):
+    * [Q](https://github.com/kriskowal/q) - Full-featured promise library with large API covering any situation you may encounter.
+    * [RSVP.js](https://github.com/tildeio/rsvp.js) - Lightweight, but still compliant, promise library.
+    * [when.js](https://github.com/cujojs/when) - Rock solid, battle tested promise library.
+    * [Bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance.
+* Fibers-base ([node-fibers](https://github.com/laverdet/node-fibers/)):
+    * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same patter using fibers.
+* Generator-based:
+    * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
