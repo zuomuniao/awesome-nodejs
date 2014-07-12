@@ -50,7 +50,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
 * [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
-* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc. 
+* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc.
 
 ## Package Management
 
@@ -152,6 +152,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables for the CLI with Node.JS
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
+* [minimist](https://github.com/substack/minimist) - Simple module for command line arguments parsing.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
