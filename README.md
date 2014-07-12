@@ -112,6 +112,12 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes.
 * [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
 
+## Application Servers
+
+*Application Server is an environment to run and manage multiple applications.*
+
+* [Impress](https://github.com/tshemsedinov/impress) - Impressive multipurpose scalable Application Server optimized for high load API and web applications.
+
 ## Content Management System
 
 * [Calipso](http://calip.so/) - Calipso is a simple CMS, built along similar themes to Drupal and Wordpress.
