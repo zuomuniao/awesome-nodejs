@@ -153,6 +153,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables for the CLI with Node.JS
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
+* [minimist](https://github.com/substack/minimist) - Simple module for command line arguments parsing.
 
 ## Async control flow
 
