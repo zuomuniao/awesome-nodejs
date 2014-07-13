@@ -163,6 +163,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.https://github.com/sindresorhus/log-symbols
 * [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
 * [cli-spinner](https://github.com/helloIAmPau/node-spinner) - A simple spinner for node cli.
+* [text-table](https://github.com/substack/text-table) - generate borderless text table strings suitable for printing to stdout.
 
 ## Async Control Flow
 
