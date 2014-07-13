@@ -176,7 +176,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Libraries, that help you manage asyncronous control flow and avoid callback hell.*
 
 * Callback-based:
-    * [Async](https://github.com/caolan/asyn) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+    * [Async](https://github.com/caolan/async) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
 * Promise-based ([Promises/A+](http://promises-aplus.github.io/promises-spec/)):
     * [Q](https://github.com/kriskowal/q) - Full-featured promise library with large API covering any situation you may encounter.
     * [RSVP.js](https://github.com/tildeio/rsvp.js) - Lightweight, but still compliant, promise library.
