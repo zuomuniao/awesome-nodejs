@@ -87,6 +87,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools.
 * [longjohn](https://github.com/mattinsler/longjohn) - Longer stack traces for Node.
+* [TypesJs](https://github.com/ChrisAntaki/typesjs) - Easy type checking, for Node & browsers.
 
 ## Logging
 
