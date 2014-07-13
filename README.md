@@ -154,6 +154,13 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
 * [minimist](https://github.com/substack/minimist) - Simple module for command line arguments parsing.
+* [read](https://github.com/isaacs/read) - For reading user input from stdin.
+* [colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console like what.
+* [configstore](https://github.com/yeoman/configstore) - Easily load and persist config without having to think about where and how.
+* [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
+* [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.https://github.com/sindresorhus/log-symbols
+* [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
+* [cli-spinner](https://github.com/helloIAmPau/node-spinner) - A simple spinner for node cli.
 
 ## Async Control Flow
 
