@@ -23,6 +23,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
     - [Async Controll Flow](#async-control-flow)
+    - [Testing](#testing)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Environment Management
@@ -178,6 +179,15 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same patter using fibers.
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
+
+## Testing
+
+*Testing frameworks.*
+
+* [mocha](https://github.com/visionmedia/mocha) - Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun.
+* [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers.
+* [should.js](https://github.com/visionmedia/should.js) - BDD style assertions for node.js -- test framework agnostic.
+* [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
