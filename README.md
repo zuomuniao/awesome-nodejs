@@ -41,6 +41,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Enide](http://www.nodeclipse.org/enide/) - Node Eclipse IDE with Nodeclipse plugin.
 * [InteliJIDEA](http://www.jetbrains.com/idea/features/nodejs.html) - Fast Node plugin for InteliJ.
 * [Webstorm](http://www.jetbrains.com/webstorm/features/#node.js) - "Create great websites and applications in a great IDE. The best JavaScript IDE and HTML editor is at your service."
+* [Visual Studio](http://www.visualstudio.com/) - With [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/) (Supports editing, IntelliSense, profiling, npm, TypeScript, debugging locally and remotely on Windows/MacOS/Linux)
 * [Atom](https://github.com/atom/atom) - The hackable editor by GitHub
 * [Brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [Cloud9](https://c9.io/site/code-smarter-code-together/) - Web editor with collaboration tools.
