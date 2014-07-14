@@ -46,6 +46,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Cloud9](https://c9.io/site/code-smarter-code-together/) - Web editor with collaboration tools.
 * [Notepad++](http://notepad-plus-plus.org) - Notepad++ is a free source code editor and Notepad replacement that supports several languages.
 * [CmdEr](https://github.com/bliker/cmder) - Not really and IDE, but a great "lovely console emulator package for Windows"
+* [Cloud Commander](http://cloudcmd.io) - Web file manager. Has editor and console. Allows you to develop web applications, sites etc.
 
 ## Documentation
 
