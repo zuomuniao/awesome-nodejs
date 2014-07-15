@@ -59,7 +59,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 *Libraries for package and dependency management.*
 
-* [Npm](https://www.npmjs.org/) - Default package manager. Installs, publishes and manages node programs.
+* [npm](https://www.npmjs.org/) - Default package manager. Installs, publishes and manages node programs.
 
 ## Build Tools
 
