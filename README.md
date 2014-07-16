@@ -94,6 +94,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [longjohn](https://github.com/mattinsler/longjohn) - Longer stack traces for Node.
 * [TypesJs](https://github.com/ChrisAntaki/typesjs) - Easy type checking, for Node & browsers.
 * [Nodev](https://github.com/akamensky/nodev) - Tool for easier debugging based on nodemon and node-inspector.
+* [cf-node-debug](https://www.npmjs.org/package/cf-node-debug) - Proxy to aid in debugging node running on a PaaS.
 
 ## Logging
 
