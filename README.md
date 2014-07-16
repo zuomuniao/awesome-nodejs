@@ -199,6 +199,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers.
 * [should.js](https://github.com/visionmedia/should.js) - BDD style assertions for node.js -- test framework agnostic.
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+* [sinon](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
