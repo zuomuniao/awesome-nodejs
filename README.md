@@ -33,6 +33,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv.
 * [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.
 * [n](https://github.com/visionmedia/n) - Node version management.
+* [nvm](https://github.com/creationix/nvm) - Node Version Manager (does not require prior installation of node).
 
 ## Integrated Development Enviroments
 
