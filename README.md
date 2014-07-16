@@ -102,6 +102,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [caterpillar](https://github.com/bevry/caterpillar) - A logging system that can log and pipe the output off to different locations.
 * [tracer](https://github.com/baryon/tracer) - A powerful and customizable logging library for node.js.
 * [Log.io](http://logio.org/) - Real time logging facility on the browser.
+* [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging module for node.js services.
 
 ## ORM
 
