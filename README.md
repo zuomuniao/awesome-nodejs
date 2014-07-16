@@ -75,6 +75,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 ## Communication
 
 * [Socket.IO](http://socket.io/) - Websocket framework for Node and Javascript.
+* [SockJS](https://github.com/sockjs) - Websocket emulation.
 * [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 
 ## Database Drivers
