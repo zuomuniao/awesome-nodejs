@@ -168,6 +168,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces. *Ask questions, parsing, validating answers, managing hierarchical prompts and providing error feedback.*
 * [commander.js](https://github.com/visionmedia/commander.js) - The complete solution for node.js command-line interfaces, inspired by Ruby's commander.
+* [cli](https://github.com/chriso/cli) - Rapidly build command line apps with node.
 * [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables for the CLI with Node.JS
 * [blessed](https://github.com/chjj/blessed) - A curses-like library for node.js.
 * [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right
