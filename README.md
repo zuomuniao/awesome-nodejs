@@ -136,6 +136,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 ## Content Management System
 
 * [Calipso](http://calip.so/) - Calipso is a simple CMS, built along similar themes to Drupal and Wordpress.
+* [KeystoneJS](http://keystonejs.com/) - Node.js CMS and web application platform built on Express and MongoDB.
 
 ## RESTful API
 
