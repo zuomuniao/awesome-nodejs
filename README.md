@@ -73,6 +73,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Gulp.js](http://gulpjs.com/) - A streaming build system which use of streams and code-over-configuration.
 * [Grunt.js](http://gruntjs.com/) - A task runner to ease epetitive tasks like unit testing, compilation and so on.
 * [Nodemon](http://nodemon.io/) - A dev utility that monitor any changes in source and automatically restart server.
+* [Browserify](http://browserify.org/) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 
 ## Communication
 
