@@ -25,6 +25,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Tools for building CLIs](#tools-for-building-clis)
     - [Async Controll Flow](#async-control-flow)
     - [Testing](#testing)
+    - [Miscellaneous](#miscellaneous)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Environment Management
@@ -72,12 +73,14 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Gulp.js](http://gulpjs.com/) - A streaming build system which use of streams and code-over-configuration.
 * [Grunt.js](http://gruntjs.com/) - A task runner to ease epetitive tasks like unit testing, compilation and so on.
 * [Nodemon](http://nodemon.io/) - A dev utility that monitor any changes in source and automatically restart server.
+* [Browserify](http://browserify.org/) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 
 ## Communication
 
 * [Socket.IO](http://socket.io/) - Websocket framework for Node and Javascript.
 * [SockJS](https://github.com/sockjs) - Websocket emulation.
 * [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
+* [BinaryJS](http://binaryjs.com/) - BinaryJS is bidrectional realtime binary data with binary websockets
 
 ## Database Drivers
 
@@ -134,6 +137,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 ## Content Management System
 
 * [Calipso](http://calip.so/) - Calipso is a simple CMS, built along similar themes to Drupal and Wordpress.
+* [KeystoneJS](http://keystonejs.com/) - Node.js CMS and web application platform built on Express and MongoDB.
 
 ## RESTful API
 
@@ -207,6 +211,12 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [should.js](https://github.com/visionmedia/should.js) - BDD style assertions for node.js -- test framework agnostic.
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [sinon](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
+
+## Miscellaneous
+
+*Miscellaneous Tools which doesn't fit to the other categories.*
+
+* [Github Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
