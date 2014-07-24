@@ -19,6 +19,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Application Servers](#application-servers)
     - [Content Management System](#content-management-system)
     - [RESTful API](#restful-api)
+    - [Forms](#forms)
     - [Files and MIME Type Manipulation](#files-and-mime-type-manipulation)
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
@@ -146,6 +147,13 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Sails](http://sailsjs.org) - MVC framework which generates a RESTful JSON API.
 * [Node-restify](http://mcavage.me/node-restify/) - A node.js module built specifically to build correct REST web services.
 * [Heimdall](https://github.com/binarymax/heimdall) - REST API Guardian for Express.
+
+## Forms
+
+*Libraries for deal with forms and form data*
+
+* [node-validator](https://github.com/chriso/validator.js) - A simple string validation and sanitization
+* [express-validator](https://github.com/ctavan/express-validator) - An express.js middleware for node-validator.
 
 ## Files and MIME Type Manipulation
 
