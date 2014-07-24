@@ -219,6 +219,12 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [should.js](https://github.com/visionmedia/should.js) - BDD style assertions for node.js -- test framework agnostic.
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [sinon](http://sinonjs.org/) - Standalone test spies, stubs and mocks for JavaScript.
+* [Jasmine](http://jasmine.github.io/) - Simple Behavioral tests for Node and Javascript.
+* [Expresso](http://visionmedia.github.io/expresso/) - TDD framework for Node.
+* [NodeUnit](https://github.com/caolan/nodeunit) - Simple syntax unit test tool.
+* [Concrete](http://ryankee.github.io/concrete/) - Continuous integration server.
+* [ready.js](http://dsimard.github.io/ready.js/) - Continuous javascript integration tool.
+* [Jezebel](https://github.com/benrady/jezebel) - A REPL and continuous test runner for Node.js Jasmine tests.
 
 ## Miscellaneous
 
