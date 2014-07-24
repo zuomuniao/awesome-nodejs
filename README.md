@@ -6,7 +6,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 - [Awesome Node.js](#awesome-nodejs)
     - [Environment Management](#environment-management)
-    - [Integrated Development Enviroments](#integrated-development-enviroments)
+    - [Integrated Development Environments](#integrated-development-environments)
     - [Documentation](#documentation)
     - [Package Management](#package-management)
     - [Build Tools](#build-tools)
@@ -38,7 +38,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [n](https://github.com/visionmedia/n) - Node version management.
 * [nvm](https://github.com/creationix/nvm) - Node Version Manager (does not require prior installation of node).
 
-## Integrated Development Enviroments
+## Integrated Development Environments
 
 *IDEs and Editors for development*
 
