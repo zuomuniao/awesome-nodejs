@@ -24,7 +24,8 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Authentication and OAuth](#authentication-and-oauth)
     - [Template Engine](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
-    - [Async Controll Flow](#async-control-flow)
+    - [Async Control Flow](#async-control-flow)
+    - [Rate Limiting](#rate-limiting)
     - [Testing](#testing)
     - [Miscellaneous](#miscellaneous)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -196,7 +197,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 ## Async Control Flow
 
-*Libraries, that help you manage asyncronous control flow and avoid callback hell.*
+*Libraries that help you manage asyncronous control flow and avoid callback hell.*
 
 * Callback-based:
     * [Async](https://github.com/caolan/async) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
@@ -209,6 +210,12 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same patter using fibers.
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
+
+## Rate Limiting
+
+*Libraries that help restrict the frequency of certain actions.*
+
+* [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 
 ## Testing
 
