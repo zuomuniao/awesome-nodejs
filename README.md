@@ -165,6 +165,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [PassportJS](http://passportjs.org/) - Simple authentication middleware framework.
 * [ldapjs](http://ldapjs.org/) - Pure JavaScript, from-scratch framework for implementing LDAP clients and servers.
+* [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - OAuth 1.0a signature generator
 
 ## Template Engine
 
