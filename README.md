@@ -129,6 +129,8 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
 * [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes.
 * [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
+* [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+
 
 ## Application Servers
 
