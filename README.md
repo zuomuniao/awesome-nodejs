@@ -28,6 +28,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Rate Limiting](#rate-limiting)
     - [Testing](#testing)
     - [Miscellaneous](#miscellaneous)
+    - [Awesome Tools](#awesome-tools)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Environment Management
@@ -61,6 +62,8 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
 * [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
 * [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc.
+* [doxco](https://github.com/JacksonTian/doxco) - Documentation generator, docco for dox.
+* [doxmate](https://github.com/JacksonTian/doxmate) - 文档伴侣，基于dox的注解对象，加入模板.
 
 ## Package Management
 
@@ -130,7 +133,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes.
 * [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
 * [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
-
+* [thinkjs](https://github.com/75team/thinkjs) - 基于Promise的Node.js MVC框架.
 
 ## Application Servers
 
@@ -241,6 +244,12 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Miscellaneous Tools which doesn't fit to the other categories.*
 
 * [Github Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
+
+## Awesome Tools
+
+*awasome tools about node.js*
+
+* [nodePPT](https://github.com/ksky521/nodePPT) - 使用node.js写网络幻灯片.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
