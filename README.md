@@ -118,6 +118,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
 * [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
 * [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb.
+* [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 
 ## Web Frameworks
 
