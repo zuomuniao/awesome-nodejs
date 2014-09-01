@@ -204,6 +204,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * Callback-based:
     * [Async](https://github.com/caolan/async) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+    * [node-seq](https://github.com/substack/node-seq) - Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling.
 * Promise-based ([Promises/A+](http://promises-aplus.github.io/promises-spec/)):
     * [Q](https://github.com/kriskowal/q) - Full-featured promise library with large API covering any situation you may encounter.
     * [RSVP.js](https://github.com/tildeio/rsvp.js) - Lightweight, but still compliant, promise library.
