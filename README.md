@@ -121,6 +121,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
 * [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
 * [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb.
+* [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 
 ## Web Frameworks
 
@@ -134,6 +135,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
 * [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 * [thinkjs](https://github.com/75team/thinkjs) - 基于Promise的Node.js MVC框架.
+* [Derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 
 ## Application Servers
 
@@ -172,6 +174,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [PassportJS](http://passportjs.org/) - Simple authentication middleware framework.
 * [ldapjs](http://ldapjs.org/) - Pure JavaScript, from-scratch framework for implementing LDAP clients and servers.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - OAuth 1.0a signature generator
+* [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express.
 
 ## Template Engine
 
@@ -208,6 +211,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * Callback-based:
     * [Async](https://github.com/caolan/async) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+    * [node-seq](https://github.com/substack/node-seq) - Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling.
 * Promise-based ([Promises/A+](http://promises-aplus.github.io/promises-spec/)):
     * [Q](https://github.com/kriskowal/q) - Full-featured promise library with large API covering any situation you may encounter.
     * [RSVP.js](https://github.com/tildeio/rsvp.js) - Lightweight, but still compliant, promise library.
