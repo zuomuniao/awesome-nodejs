@@ -200,6 +200,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
 * [cli-spinner](https://github.com/helloIAmPau/node-spinner) - A simple spinner for node cli.
 * [text-table](https://github.com/substack/text-table) - generate borderless text table strings suitable for printing to stdout.
+* [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 
 ## Async Control Flow
 
