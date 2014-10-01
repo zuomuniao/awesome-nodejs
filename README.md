@@ -251,4 +251,6 @@ Other amazingly awesome lists can be found in the [awesome-awesome](https://gith
 
 # Contributing
 
+[Chinese awesome-nodejs version](https://github.com/ueqt/awesome-nodejs) by @ueqt.
+
 Your contributions are always welcome!
