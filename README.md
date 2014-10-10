@@ -133,6 +133,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     * [Derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 * [HuntJS](https://huntjs.herokuapp.com/) - event driven framework for building clustered webservers, telnet and background applications with mongoose or sequilize as data storage.
+* [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 
 ## Application Servers
 
