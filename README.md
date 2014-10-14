@@ -201,6 +201,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
 * [cli-spinner](https://github.com/helloIAmPau/node-spinner) - A simple spinner for node cli.
 * [text-table](https://github.com/substack/text-table) - generate borderless text table strings suitable for printing to stdout.
+* [nomnom](https://github.com/harthur/nomnom) - Option parser for node with generated usage and commands.
 
 ## Async Control Flow
 
