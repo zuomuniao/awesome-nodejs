@@ -67,6 +67,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Libraries for package and dependency management.*
 
 * [npm](https://www.npmjs.org/) - Default package manager. Installs, publishes and manages node programs.
+* [Duo](http://duojs.org/) - A next-generation package manager for the front-end.
 
 ## Build Tools
 
