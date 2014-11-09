@@ -248,6 +248,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Miscellaneous Tools which doesn't fit to the other categories.*
 
 * [Github Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
+* [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
