@@ -5,6 +5,7 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 Your pull requests are very welcome! Let's make this the awesomest resource for Node!
 
 - [Awesome Node.js](#awesome-nodejs)
+    - [Science](#science)
     - [Environment Management](#environment-management)
     - [Integrated Development Environments](#integrated-development-environments)
     - [Documentation](#documentation)
@@ -22,13 +23,33 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Forms](#forms)
     - [Files and MIME Type Manipulation](#files-and-mime-type-manipulation)
     - [Authentication and OAuth](#authentication-and-oauth)
-    - [Template Engine](#template-engine)
+    - [Templating](#template-engine)
     - [Tools for building CLIs](#tools-for-building-clis)
     - [Async Control Flow](#async-control-flow)
     - [Rate Limiting](#rate-limiting)
     - [Testing](#testing)
     - [Miscellaneous](#miscellaneous)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Blogs](#blogs)
 - [Other Awesome Lists](#other-awesome-lists)
+
+# Science
+
+*Things some awesome crazy people are doing!*
+
+* [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
+* [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+* [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
+* [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+* [Breach](http://breach.cc) - Modular and hackable browser written in JavaScript.
+* [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+* [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+* [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
+* [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
+* [NodeOS](http://node-os.com) - The first operating system powered by npm.
+* [PDFKit](http://pdfkit.org) - PDF generation library.
+* [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
 
 ## Environment Management
 
@@ -84,6 +105,8 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [SockJS](https://github.com/sockjs) - Websocket emulation.
 * [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 * [BinaryJS](http://binaryjs.com/) - BinaryJS is bidrectional realtime binary data with binary websockets
+* [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
+* [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 
 ## Database Drivers
 
@@ -98,10 +121,16 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Tools for debugging Node applications*
 
 * [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools.
+* [Theseus](https://github.com/adobe-research/theseus) - A new type of JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
 * [longjohn](https://github.com/mattinsler/longjohn) - Longer stack traces for Node.
+* [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 * [TypesJs](https://github.com/ChrisAntaki/typesjs) - Easy type checking, for Node & browsers.
+* [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
+* [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 * [Nodev](https://github.com/akamensky/nodev) - Tool for easier debugging based on nodemon and node-inspector.
 * [cf-node-debug](https://www.npmjs.org/package/cf-node-debug) - Proxy to aid in debugging node running on a PaaS.
+* [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
+* [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ## Logging
 
@@ -111,6 +140,8 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [tracer](https://github.com/baryon/tracer) - A powerful and customizable logging library for node.js.
 * [Log.io](http://logio.org/) - Real time logging facility on the browser.
 * [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging module for node.js services.
+* [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
+* [intel](https://seanmonstar.github.io/intel) - A comprehensive logging library (handlers, filters, formatters, console injection).
 
 ## ORM
 
@@ -135,6 +166,9 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     * [Derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 * [HuntJS](https://huntjs.herokuapp.com/) - event driven framework for building clustered webservers, telnet and background applications with mongoose or sequilize as data storage.
 * [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+* [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
+* [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
+* [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
 
 ## Application Servers
 
@@ -172,16 +206,21 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [PassportJS](http://passportjs.org/) - Simple authentication middleware framework.
 * [ldapjs](http://ldapjs.org/) - Pure JavaScript, from-scratch framework for implementing LDAP clients and servers.
+* [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - OAuth 1.0a signature generator
 * [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express.
+* [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
 
-## Template Engine
+## Templating
 
 *Libraries and tools for templating and lexing.*
 
 * [ECT](http://ectjs.com/) - "Fastest JavaScript template engine with embedded CoffeeScript syntax" as they say (benchmark proof).
+* [handlebars.js](https://github.com/wycats/handlebars.js/) - A superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
+* [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 * [Jade](http://jade-lang.com/) - Handful node template engine.
 * [Swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable JavaScript Template Engine.
+* [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ## Tools for building CLIs
 
@@ -210,6 +249,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * Callback-based:
     * [Async](https://github.com/caolan/async) - Utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+    * [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
     * [node-seq](https://github.com/substack/node-seq) - Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling.
 * Promise-based ([Promises/A+](http://promises-aplus.github.io/promises-spec/)):
     * [Q](https://github.com/kriskowal/q) - Full-featured promise library with large API covering any situation you may encounter.
@@ -220,6 +260,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same patter using fibers.
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
+    * [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
 
 ## Rate Limiting
 
@@ -242,6 +283,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Concrete](http://ryankee.github.io/concrete/) - Continuous integration server.
 * [ready.js](http://dsimard.github.io/ready.js/) - Continuous javascript integration tool.
 * [Jezebel](https://github.com/benrady/jezebel) - A REPL and continuous test runner for Node.js Jasmine tests.
+* [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 
 ## Miscellaneous
 
@@ -249,8 +291,50 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [Github Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
 * [Node-Bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
+* [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
+* [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
+* [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
+* [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+* [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
+* [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
+* [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+* [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
+* [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+* [shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands.
+* [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
+* [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
+* [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
+* [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
+* [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
+* [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
+* [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
+* [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
+* [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+
+# Tutorials
+
+* [Nodeschool](http://nodeschool.io) - Learn Node.js with interactive lessons.
+* [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
+* [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
+* [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
+* [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
+
+# Books
+
+* [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
+* [Mastering Node](http://tj.github.io/masteringnode/)
+* [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
+* [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
+* [Mixu's Node book](http://book.mixu.net/node/)
+* [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
+
+# Blogs
+
+* [Node.js blog](http://blog.nodejs.org)
+* [HowToNode](http://howtonode.org) - Teaching how to do various tasks in Node.js as well as teach fundamental concepts that are needed to write effective code.
 
 # Other Awesome Lists
+
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.
 
 # Contributing
