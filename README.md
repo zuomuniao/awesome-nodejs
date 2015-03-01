@@ -54,7 +54,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     * [RSVP.js](https://github.com/tildeio/rsvp.js) - Lightweight, but still compliant, promise library.
     * [when.js](https://github.com/cujojs/when) - Rock solid, battle tested promise library.
 * Fibers-base ([node-fibers](https://github.com/laverdet/node-fibers/)):
-    * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same patter using fibers.
+    * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same pattern using fibers.
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
     * [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
