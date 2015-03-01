@@ -296,7 +296,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 * [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
-* [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 * [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 * [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
