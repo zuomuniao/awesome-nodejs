@@ -283,6 +283,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 * [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 * [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
+* [Catberry](http://catberry.org) - Framework with Flux architecture, isomorphic web-components and progressive rendering.
 
 ## Content Management System
 
