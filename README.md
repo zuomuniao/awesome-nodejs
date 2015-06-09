@@ -54,7 +54,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     * [RSVP.js](https://github.com/tildeio/rsvp.js) - Lightweight, but still compliant, promise library.
     * [when.js](https://github.com/cujojs/when) - Rock solid, battle tested promise library.
 * Fibers-base ([node-fibers](https://github.com/laverdet/node-fibers/)):
-    * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same patter using fibers.
+    * [asyncawait](https://github.com/yortus/asyncawait) - Inspired by C# async/await feature, implementation of the same pattern using fibers.
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
     * [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
@@ -297,7 +297,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 * [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 * [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
-* [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 * [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 * [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
