@@ -100,6 +100,9 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Node-mongodb-native](https://github.com/mongodb/node-mongodb-native/) - Mongo DB Native NodeJS Driver.
 * [Node-mysql](https://github.com/felixge/node-mysql/) - A pure node.js JavaScript Client implementing the MySql protocol.
 * [Node-redis](https://github.com/mranney/node_redis) - Redis Driver, use [hideredis](https://github.com/redis/hiredis-node) for native parser, and checkout [then-redis](https://github.com/mjackson/then-redis) for a Promise-based API.
+* [PG](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js. Pure JavaScript and optional native libpq bindings.
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb) - provides the JavaScript driver library for the [RethinkDB](http://rethinkdb.com/) database server for use either from node or your web-browser.
+* [RethinkDBdash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for [RethinkDB](http://rethinkdb.com/) with a connection pool, support for streams etc. 
 
 ## Debugging Tools
 
