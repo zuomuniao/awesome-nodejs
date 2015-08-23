@@ -299,6 +299,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 *Miscellaneous Tools which doesn't fit to the other categories.*
 
+* [acpiclient](https://github.com/vodolaz095/acpiclient) - NodeJS wrapper around [acpi](http://sourceforge.net/projects/acpiclient/) to get computer temperature, cooling, battery and power status.
 * [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 * [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
 * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
