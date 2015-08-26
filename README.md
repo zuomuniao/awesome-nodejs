@@ -39,6 +39,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Application Server is an environment to run and manage multiple applications.*
 
 * [Impress](https://github.com/tshemsedinov/impress) - Impressive multipurpose scalable Application Server optimized for high load API and web applications.
+* [Foreman](https://www.npmjs.com/package/foreman) - Implementation of Foreman tool manager for Procfile-based applications. Its aim is to abstract away the details of the Procfile format, and allow you to either run your application directly or export it to some other process management format.
 
 ## Async Control Flow
 
