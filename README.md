@@ -39,6 +39,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 *Application Server is an environment to run and manage multiple applications.*
 
 * [Impress](https://github.com/tshemsedinov/impress) - Impressive multipurpose scalable Application Server optimized for high load API and web applications.
+* [Foreman](https://www.npmjs.com/package/foreman) - Implementation of Foreman tool manager for Procfile-based applications. Its aim is to abstract away the details of the Procfile format, and allow you to either run your application directly or export it to some other process management format.
 
 ## Async Control Flow
 
@@ -100,6 +101,9 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Node-mongodb-native](https://github.com/mongodb/node-mongodb-native/) - Mongo DB Native NodeJS Driver.
 * [Node-mysql](https://github.com/felixge/node-mysql/) - A pure node.js JavaScript Client implementing the MySql protocol.
 * [Node-redis](https://github.com/mranney/node_redis) - Redis Driver, use [hideredis](https://github.com/redis/hiredis-node) for native parser, and checkout [then-redis](https://github.com/mjackson/then-redis) for a Promise-based API.
+* [PG](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js. Pure JavaScript and optional native libpq bindings.
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb) - provides the JavaScript driver library for the [RethinkDB](http://rethinkdb.com/) database server for use either from node or your web-browser.
+* [RethinkDBdash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for [RethinkDB](http://rethinkdb.com/) with a connection pool, support for streams etc. 
 
 ## Debugging Tools
 
@@ -124,6 +128,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
 * [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc.
 * [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
+* [JSdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript, with good [manual](http://usejsdoc.org/)
 
 ## Environment Management
 
@@ -295,6 +300,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 *Miscellaneous Tools which doesn't fit to the other categories.*
 
+* [acpiclient](https://github.com/vodolaz095/acpiclient) - NodeJS wrapper around [acpi](http://sourceforge.net/projects/acpiclient/) to get computer temperature, cooling, battery and power status.
 * [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 * [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
 * [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
