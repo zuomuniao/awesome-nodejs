@@ -284,6 +284,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
 * [Koa](http://koajs.com/) - A framework which aims to be a smaller, more expressive, and more robust foundation for web applications.
 * [LoopBack](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+* [MEAN.JS](https://github.com/meanjs/mean) - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js. 
 * [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes.
 * [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 * [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
