@@ -180,6 +180,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
+* [Bookshelf](https://github.com/tgriesser/bookshelf) - A simple ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js.
 * [Mongoose](http://mongoosejs.com/) - Almost an ORM for mongodb.
 * [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
