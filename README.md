@@ -267,7 +267,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces. *Ask questions, parsing, validating answers, managing hierarchical prompts and providing error feedback.*
 * [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.https://github.com/sindresorhus/log-symbols
 * [minimist](https://github.com/substack/minimist) - Simple module for command line arguments parsing.
-* [nomnom](https://github.com/harthur/nomnom) - Option parser for node with generated usage and commands.
 * [read](https://github.com/isaacs/read) - For reading user input from stdin.
 * [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
 * [text-table](https://github.com/substack/text-table) - generate borderless text table strings suitable for printing to stdout.
