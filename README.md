@@ -270,6 +270,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [read](https://github.com/isaacs/read) - For reading user input from stdin.
 * [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
 * [text-table](https://github.com/substack/text-table) - generate borderless text table strings suitable for printing to stdout.
+* [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs.
 
 ## Web Frameworks
 
