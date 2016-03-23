@@ -20,7 +20,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Integrated Development Environments](#integrated-development-environments)
     - [Logging](#logging)
     - [ORM](#orm)
-    - [Package Management](#package-management)
+    - [Web Frameworks](#web-frameworks)
     - [Rate Limiting](#rate-limiting)
     - [RESTful API](#restful-api)
     - [Science](#science)
@@ -59,6 +59,11 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
     * [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
+	* [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
+	* [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
+	* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc.
+	* [doxco](https://github.com/JacksonTian/doxco) - Documentation generator, docco for dox.
+	* [doxmate](https://github.com/JacksonTian/doxmate) - 文档伴侣，基于dox的注解对象，加入模板.
 
 ## Authentication and OAuth
 
@@ -186,7 +191,18 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
 * [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 
-## Package Management
+## Web Frameworks
+
+*Web development frameworks.*
+
+* [Express](http://expressjs.com/) -  A minimal and flexible node.js web application framework.
+* [Flatiron](http://flatironjs.org/) - An adaptable framework for building modern web applications.
+* [Koa](http://koajs.com/) - A framework which aims to be a smaller, more expressive, and more robust foundation for web applications.
+* [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
+* [Meteor](https://www.meteor.com/) - A platform that has strong features such as live page update, sync and hopt code pushes.
+* [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
+* [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+* [Derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 
 *Libraries for package and dependency management.*
 
@@ -271,6 +287,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [terminal-menu](https://github.com/substack/terminal-menu) - retro ansi terminal menus for serious 80s technicolor business.
 * [text-table](https://github.com/substack/text-table) - generate borderless text table strings suitable for printing to stdout.
 * [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs.
+* [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 
 ## Web Frameworks
 
