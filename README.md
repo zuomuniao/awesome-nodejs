@@ -59,11 +59,6 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * Generator-based:
     * [Co](https://github.com/visionmedia/co) - Generator based flow-control goodness for nodejs and the browser.
     * [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
-	* [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
-	* [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
-	* [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for node using markdown and jsdoc.
-	* [doxco](https://github.com/JacksonTian/doxco) - Documentation generator, docco for dox.
-	* [doxmate](https://github.com/JacksonTian/doxmate) - 文档伴侣，基于dox的注解对象，加入模板.
 
 ## Authentication and OAuth
 
