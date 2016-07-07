@@ -1,3 +1,4 @@
+## todo:有时间把本页面翻译成中文
 # Awesome Node.js
 
 A curated list of astonishing Node.js frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python).
